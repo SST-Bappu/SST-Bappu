@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Satta Sunder
 #### I am about to a CSE Graduate
-I am a student. Now I've been mainly working on Data Structure and Algorithm. I'm passionate about Problem Solving, Programming and New Technologies. And I've planning to dive into IT industry to contribute in some significant changes.
+I am a student. Now I've been mainly working on Data Structure and Algorithm. I'm passionate about Problem Solving, Programming and New Technologies. And I've been planning to dive myself into IT industry to contribute in some significant changes.
 
 Skills: Python, Django, C, C++
 
