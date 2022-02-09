@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Satta Sunder
-#### I am a fresh CSE Graduate
-Now I've been mainly working on Data Structure and Algorithm, also trying to focus on some basic projects using Django and Rest Framework. I'm passionate about Problem Solving, Programming and New Technologies. And I've been planning to dive myself into IT industry to contribute in some significant changes.
+#### I am a CSE Graduate
+I am highly motivated and very much passionate about coding. I have found my potentail in Back-end developement. Data structures, algorithms and Database managements.
 
-Skills: Python, Django, SQL, C, C++, Git, Linux, DSA, PL/SQL, JSON, REST APIs, HTML, CSS
+Skills & Technologies :
+Python | Django | Django Rest-Framework| Django ORM| SQL | NoSQL| MongoDB| C++ | C | Git | Linux | DSA |PL/SQL |PostgreSQL | REST APIs | JavaScript
 
 
 
