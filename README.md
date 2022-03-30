@@ -13,6 +13,6 @@ Python | Django | Django Rest-Framework| Django ORM| SQL | NoSQL| MongoDB| C++ |
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SST-Bappu&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SST-Bappu)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SST-Bappu)   -->
 
 
